@@ -68,6 +68,10 @@ All chat processing is performed locally. No chat data is stored or transmitted 
 - Multi-language sentiment analysis
 - Enhanced dashboard visualizations
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Noor**
+**Noor Akhtar**  
+Aspiring Data Analyst | Power BI | SQL | Python
+
+📧 Email: mohammadnoor3008@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/noorakhtar30/
